@@ -1,6 +1,6 @@
 # Chips Retail Analytics
 
-[View complementary dashboard (Looker Studio) here](https://lookerstudio.google.com/reporting/dc27af24-1e0c-488f-a712-d3dc8c680d79)
+[View complementary dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/dc27af24-1e0c-488f-a712-d3dc8c680d79)
 
 [Read full article of this project](https://jcdcustodio.super.site/works/jcdc-works/chips-retail-analytics)
 
